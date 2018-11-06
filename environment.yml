@@ -1,7 +1,10 @@
 name: sage-r-environment
 channels:
   - conda-forge
+  - cvxgrp
 dependencies:
   - python=2.7
+  - lapack
+  - cvxpy
   - sage
   - r-essentials
