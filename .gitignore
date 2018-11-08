@@ -9,7 +9,7 @@
 
 ## R programs
 *.Rexe
-*.R
+#*.R
 *.Rmd
 *.Rdata
 *.Rhistory
