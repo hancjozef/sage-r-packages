@@ -3,3 +3,4 @@
 Testing Binder with Python 2, SageMath and R.
 
 Extra R packages are in the file install.R
+**But yml ingores install.R packages.**
