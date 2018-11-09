@@ -8,3 +8,7 @@ dependencies:
   - cvxpy
   - sage
   - r-essentials
+  - pip:
+    - pandas
+    - matplotlib
+    - scipy
