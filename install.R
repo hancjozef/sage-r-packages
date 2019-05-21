@@ -1,5 +1,2 @@
-install.packages('effsize')
-install.packages('RcmdrMisc')
-install.packages('kableExtra')
-install.packages('fpp2')
-install.packages('forecast')
+install.packages('devtools')
+devtools::install_github('fdslrm/R-package')
