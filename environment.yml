@@ -6,6 +6,7 @@ dependencies:
   - python=2.7
   - lapack
   - cvxpy
+  - pip
   - pip:
     - pandas
     - scipy
