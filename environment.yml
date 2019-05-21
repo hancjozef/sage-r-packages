@@ -1,14 +1,11 @@
-name: sage-r-environment
 channels:
+  - oxfordcontrol
   - conda-forge
   - cvxgrp
 dependencies:
   - python=2.7
   - lapack
   - cvxpy
-  - sage
-  - r-essentials
   - pip:
     - pandas
-    - matplotlib
     - scipy
